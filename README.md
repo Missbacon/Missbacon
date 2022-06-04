@@ -5,9 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanessa-camara-38a633138/)
 
 
-# ![MissBacon GitHub stats](https://github-readme-stats.vercel.app/api?username=Missbacon&show_icons=true&theme=radical)
-
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Missbacon&theme=blue-green)
+# ![MissBacon GitHub stats](https://github-readme-stats.vercel.app/api?username=Missbacon&show_icons=true&theme=radical) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Missbacon&layout=compact&langs_count=7&theme=radical"/>
 
 
 ## Tecnologias que estou estudando 
